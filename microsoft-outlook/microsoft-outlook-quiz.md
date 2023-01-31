@@ -692,4 +692,11 @@ D. Because you cannot create a search folder for a subfolder
 - [ ] TXT
 - [ ] DOCX Windows) or DOCM (Mac)
 
+#### Q95. What appears on the People page?
+
+- [ ] distribution lists
+- [ ] email accounts
+- [ ] groups
+- [x] contacts
+
 [Reference link](https://www.codetwo.com/admins-blog/export-outlook-contacts/)
